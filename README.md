@@ -1,11 +1,11 @@
-# LSF-Notenbenarichtigung
+# LSF-Notenbenachrichtigung
 
 Das LSF (Lehre Studium Forschung) dient für viele Hochschulen als Kurs- und Notenverteilung.
 Leider besitzt es keine Benachrichtigungsfunktion für neu eingetragene Noten.
 
-Dieses Script ermöglicht und erweitert genau dieseBenachrichtigungsfunktion.
+Dieses Script ermöglicht und erweitert genau diese Benachrichtigungsfunktion.
 
-Screenshot und weitere Informationen unter http://rauscher.media/de/projekte/lsf-notenbenarichtigung
+Screenshot und weitere Informationen unter http://rauscher.media/de/projekte/lsf-notenbenachrichtigung
 
 Das Script besteht aus drei Dateien.
 
