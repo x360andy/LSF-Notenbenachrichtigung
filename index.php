@@ -1,5 +1,5 @@
 <?php
-// Nur tagsüber prüfen, da das System nachts oft nicht erreichbar ist. 
+// Nur tagsÃ¼ber prÃ¼fen, da das System nachts oft nicht erreichbar ist. 
 if (date("H") < "06")
 die();
 
@@ -131,7 +131,7 @@ $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 // More headers
 $headers .= 'From: <'.$email.'>' . "\r\n";
 if ($countLastScores != $i) {
-// mail($email, "NEUE LSF-NOTEN", $printString,$headers);
+	mail($email, "NEUE LSF-NOTEN", $printString,$headers);
 }
 
 fclose($file);
