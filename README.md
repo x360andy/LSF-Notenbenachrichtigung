@@ -5,6 +5,8 @@ Leider besitzt es keine Benachrichtigungsfunktion für neu eingetragene Noten.
 
 Dieses Script ermöglicht und erweitert genau dieseBenachrichtigungsfunktion.
 
+Screenshot und weitere Informationen unter http://rauscher.media/de/projekte/lsf-notenbenarichtigung
+
 Das Script besteht aus drei Dateien.
 
 Die saveCount.txt und tmpSave.txt beinhalten das Ergebnis des letzten Aufrufes und reduzieren den Traffic zum LSF.
